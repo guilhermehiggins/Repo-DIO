@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\bin\Debug\net5.0\Desafio2.exe
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\bin\Debug\net5.0\Desafio2.deps.json
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\bin\Debug\net5.0\Desafio2.runtimeconfig.json
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\bin\Debug\net5.0\Desafio2.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\bin\Debug\net5.0\Desafio2.dll
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\bin\Debug\net5.0\ref\Desafio2.dll
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\bin\Debug\net5.0\Desafio2.pdb
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.AssemblyInfo.cs
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.dll
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\ref\Desafio2.dll
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.pdb
+C:\Users\User\Desktop\Programação\Bootcamp\Desafios\Desafio2\Desafio2\obj\Debug\net5.0\Desafio2.genruntimeconfig.cache
