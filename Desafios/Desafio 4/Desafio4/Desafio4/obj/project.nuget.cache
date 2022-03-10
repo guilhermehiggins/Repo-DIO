@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B36Cu942Oqm+1JAtkXqFvugV4G/6/E2fphpvkgZtmmbme1BwWT0j5FMXRcTScBWaDwHIpWkqm9Mf4A0Sjfxefw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Programação\\Bootcamp\\git\\DesafioGit.GitHub\\dio-repo\\Desafios\\Desafio4 - Contagem Cedulas\\Desafio4\\Desafio4\\Desafio4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
